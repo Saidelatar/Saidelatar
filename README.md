@@ -35,7 +35,7 @@
     
 <a href="https://github.com/Saidelatar/github-readme-stats"><img alt="Saidelatar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidelatar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-<p align="center">
+<p align="Right">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Saidelatar&theme=shadow-blue" alt="GitHub Streak" /></a>
 </p>
 <h3 align="center">
