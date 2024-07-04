@@ -12,7 +12,6 @@
 -  How to reach me [My Gmail](mailto:saidelatar49@gmail.com).
 - 🔍 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Saidelatar?tab=repositories)** .
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAbdelmaboud&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAbdelmaboud" /> </p>
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
